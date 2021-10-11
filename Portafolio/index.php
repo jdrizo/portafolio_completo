@@ -164,7 +164,7 @@
                         </div>
                         <div class="tm-textbox tm-bg-dark">
                             <p>
-                                Mi Nombre es Julia David Rizo Peña tengo 19 años, tengo un tecnico en programacion de software, estoy terminando un tecnologo en el area de desarrollo web, y con mas perspectivas a nuevas areas de estudio en el desarrollo web.
+                                Aqui se encuentra el apartado del regisro de vehiculo del proyecto.
                             </p>
                             <a href="http://localhost/CRUD/vista/index1.php">&rarr; Ver Formulario de Registro</a>
                         </div>
@@ -175,7 +175,7 @@
                         </div>
                         <div class="tm-textbox tm-bg-dark">
                             <p>
-                                Mi Nombre es Julia David Rizo Peña tengo 19 años, tengo un tecnico en programacion de software, estoy terminando un tecnologo en el area de desarrollo web, y con mas perspectivas a nuevas areas de estudio en el desarrollo web.
+                                Aqui se encuentra el apartado del uso del crud.
                             </p>
                             <a href="http://localhost/CRUD/vista/index.php">&rarr; Ver CRUD</a>
                         </div>
