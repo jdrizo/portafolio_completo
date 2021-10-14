@@ -15,7 +15,7 @@
 
 	if ($resultado === TRUE) {
 		//echo "Insertado correctamente";
-		header('Location: ../vista/index1.php');
+		header('Location: ../Vista/index.php');
 	}else{
 		echo "Error";
 	}

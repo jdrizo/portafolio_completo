@@ -5,7 +5,7 @@
 	}
 
 	
-		include '../modelo/conexion.php';
+		include '../vista/conexion.php';
 		$matricula = $_GET['num_matricula'];
 
 		$sentencia = $bd->prepare("SELECT * FROM vehiculos WHERE num_matricula = ?;");
