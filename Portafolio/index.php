@@ -159,14 +159,14 @@
                     </div>
                     <section class="tm-section tm-section-3 tm-section-left">
                         <div class="grid tm-gallery">
-                            <h1>Formlario de registro
+                            <h1>Formulario de registro
                                 <h1>
                         </div>
                         <div class="tm-textbox tm-bg-dark">
                             <p>
                                 Aqui se encuentra el apartado del regisro de vehiculo del proyecto.
                             </p>
-                            <a href="http://localhost/CRUD/vista/index1.php">&rarr; Ver Formulario de Registro</a>
+                            <a href="../vista/index1.php">&rarr; Ver Formulario de Registro</a>
                         </div>
 
                         <div class="grid tm-gallery">
@@ -177,7 +177,7 @@
                             <p>
                                 Aqui se encuentra el apartado del uso del crud.
                             </p>
-                            <a href="http://localhost/CRUD/vista/index.php">&rarr; Ver CRUD</a>
+                            <a href="../vista/index.php">&rarr; Ver CRUD</a>
                         </div>
 
                         </>

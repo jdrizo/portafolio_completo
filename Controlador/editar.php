@@ -5,7 +5,7 @@
 	}
 
 	
-		include '../vista/conexion.php';
+		include '../modelo/conexion.php';
 		$matricula = $_GET['num_matricula'];
 
 		$sentencia = $bd->prepare("SELECT * FROM vehiculos WHERE num_matricula = ?;");
@@ -25,7 +25,7 @@
 <body>
 	<center>
 		<h3>Editar Vehiculo:</h3>
-		<form method="POST" action="../editarProceso.php">
+		<form method="POST" action="../modelo/editarProceso.php">
 			<table>
 				<tr>
 					<td>num_matricula: </td>

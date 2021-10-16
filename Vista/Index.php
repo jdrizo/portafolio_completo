@@ -33,8 +33,8 @@ $vehiculos = $sentencia->fetchAll(PDO::FETCH_OBJ);
 						<td><?php echo $dato->marca; ?></td>
 						<td><?php echo $dato->color; ?></td>
 						<td><?php echo $dato->tipo; ?></td>	
-						<td><a href="editar.php?num_matricula=<?php echo $dato->num_matricula; ?>">Editar</a></td>
-						<td><a href="eliminar.php?num_matricula=<?php echo $dato->num_matricula; ?>">Eliminar</a></td>
+						<td><a href="../controlador/editar.php?num_matricula=<?php echo $dato->num_matricula; ?>">Editar</a></td>
+						<td><a href="../controlador/eliminar.php?num_matricula=<?php echo $dato->num_matricula; ?>">Eliminar</a></td>
 					</tr>
 					<?php
 				}
